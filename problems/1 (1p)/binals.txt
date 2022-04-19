@@ -1,0 +1,10 @@
+Hur många 1or får du om du summerar alla tal mellan och inklusive 1 - 123456789,
+och sedan transformerar alla siffror i det talet till binär form?
+
+Ex: För alla tal mellan och inklusive 1 - 5.
+    # Summera 1-7 1+2+3+4+5+6+7 = 28
+    # Förvandla till binär form 
+        # 2 -> 10
+        # 8 -> 1000
+    # Räkna alla 1or -> 2 st
+
