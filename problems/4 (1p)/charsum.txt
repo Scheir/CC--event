@@ -1,6 +1,6 @@
 Vad är produkten om du multiplicerar antalet gånger som alla
 olika siffror dyker upp om du gör en ascii-kod omvanling på
-alla tecken i "Crowd Collective:)" inklusive smiley och stora bokstäver?
+alla tecken i "Crowd Collective:)" inklusive smiley, space och stora bokstäver?
 
 Ex, aabbcc har ascii rep 97,97,98,98,99 och 99.
 Alltså två 7or, två 8or och åtta 9or.
